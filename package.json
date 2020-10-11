@@ -1,0 +1,24 @@
+{
+  "name": "svelte-trim-whitespace-preprocessor",
+  "version": "1.0.0",
+  "description": "Trim whitespace between inline elements in Svelte components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kim366/svelte-trim-whitespace-preprocessor.git"
+  },
+  "keywords": [
+    "svelte",
+    "whitespace",
+    "preprocessor"
+  ],
+  "author": "Kim Schmider",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kim366/svelte-trim-whitespace-preprocessor/issues"
+  },
+  "homepage": "https://github.com/kim366/svelte-trim-whitespace-preprocessor#readme"
+}
