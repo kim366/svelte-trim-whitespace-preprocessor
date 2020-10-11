@@ -1,3 +1,5 @@
+var minify = require('html-minifier').minify;
+
 module.exports = {
   markup({content, filename}) {
     const code = minify(content, {

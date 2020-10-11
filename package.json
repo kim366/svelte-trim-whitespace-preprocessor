@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/kim366/svelte-trim-whitespace-preprocessor/issues"
   },
-  "homepage": "https://github.com/kim366/svelte-trim-whitespace-preprocessor#readme"
+  "homepage": "https://github.com/kim366/svelte-trim-whitespace-preprocessor#readme",
+  "dependencies": {
+    "html-minifier": "^4.0.0"
+  }
 }
