@@ -1,6 +1,6 @@
 {
   "name": "svelte-trim-whitespace-preprocessor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Trim whitespace between inline elements in Svelte components",
   "main": "index.js",
   "scripts": {
